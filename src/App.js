@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
      <div>
-     하이염
+    App
      </div>
     );
   }
