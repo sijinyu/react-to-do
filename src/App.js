@@ -7,9 +7,9 @@ import TodoItemList from './Components/TodoItemList';
 class App extends Component {
   render() {
     return (
-      <TodoListTemplate form={<Form/>}>
-        <TodoItemList />
-      </TodoListTemplate>
+     <div>
+     하이염
+     </div>
     );
   }
 }
